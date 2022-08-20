@@ -1,12 +1,12 @@
 {
-	"slug" : "sample-slug",
-	"title" : "Sample Project",
+	"slug" : "blog-rick-morty-node",
+	"title" : "Rick % Morty Blog with Node",
 	"preview": "https://path/to/image.png",
 	"status": "draft",
-	"translations": ["us"],
-	"technologies": ["some-technology"],
-	"difficulty": "beginner",
+	"translations": ["us", "es"],
+	"technologies": ["node", "nodejs", "express", "expressjs"],
+	"difficulty": "advanced",
 	"syntax": null,
 	"duration" : 2,
-	"description" : "Describe your proyect with 250 chars max"
+	"description" : "Vamos a construir una versión minimalista del Banco de datos de Rick & Morty "
 }
